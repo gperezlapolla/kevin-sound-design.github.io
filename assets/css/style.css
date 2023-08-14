@@ -3,7 +3,7 @@ body{
     font-weight: 500; 
     color: rgb(196, 184, 23);
     padding: 90px 20px 0px;
-    background: #c94b4b; 
+    background: gray; 
     background: -webkit-linear-gradient(to right, #4b134f, #c94b4b);  
     background: linear-gradient(to right, #4b134f, #c94b4b); 
 
